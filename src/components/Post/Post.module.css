@@ -1,0 +1,35 @@
+.postHeader {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: #e1e8ed;
+}
+.authorName {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: #14171a;
+}
+.time {
+  margin: 0;
+  font-size: 14px;
+  color: #657786;
+}
+.content {
+  font-size: 15px;
+  color: #14171a;
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+.actions {
+  display: flex;
+  gap: 12px;
+  border-top: 1px solid #e1e8ed;
+  padding-top: 16px;
+}
