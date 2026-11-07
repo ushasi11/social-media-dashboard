@@ -11,3 +11,9 @@ This project demonstrates a modern frontend React architecture:
 
 ## Author
 Ushasi Bag
+
+## How to Run Locally
+1. Clone the repository to your local machine.
+2. Open your terminal in the project directory.
+3. Run `npm install` to download all the required dependencies.
+4. Run `npm start` to launch the dashboard in your browser at `http://localhost:3000`.
